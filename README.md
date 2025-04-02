@@ -1,0 +1,1 @@
+This script uses Puppeteer to automate data extraction from the vocabulary lessons on langeek.co. It collects English vocabulary words, definitions, and parts of speech from B2-level lesson categories and saves each lesson’s data into separate CSV files.
